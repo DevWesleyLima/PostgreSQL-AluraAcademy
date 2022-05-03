@@ -12,3 +12,5 @@ On Alura Academy platform!
 Read more:
 * ¹https://cursos.alura.com.br/course/introducao-postgresql-primeiros-passos
 * ²https://cursos.alura.com.br/course/postgresql-views-sub-consultas-funcoes
+
+These projects are finished!
